@@ -9,6 +9,7 @@ This repository contains hands-on practice projects designed to help prepare for
 - High availability architecture
 - Hybrid cloud connectivity
 - [View Project Details](./projects/01-ehr-healthcare/README.md)
+- [Official Project Details](https://services.google.com/fh/files/blogs/master_case_study_ehr_healthcare.pdf)
 
 ### 2. Helicopter Racing League Streaming
 - Global video streaming platform
