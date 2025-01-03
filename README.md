@@ -16,18 +16,23 @@ This repository contains hands-on practice projects designed to help prepare for
 - Real-time ML predictions
 - Low-latency content delivery
 - [View Project Details](./projects/02-helicopter-racing/README.md)
+- [Official Project Details](https://services.google.com/fh/files/blogs/master_case_study_helicopter_racing_league.pdf)
 
 ### 3. Mountkirk Games Platform
 - Multi-region gaming infrastructure
 - Real-time leaderboard system
 - GPU-based rendering
 - [View Project Details](./projects/03-mountkirk-games/README.md)
+- [Official Project Details](https://services.google.com/fh/files/blogs/master_case_study_mountkirk_games.pdf)
+
 
 ### 4. TerramEarth IoT Platform
 - IoT data processing
 - Predictive maintenance
 - API management
 - [View Project Details](./projects/04-terramearth/README.md)
+- [Official Project Details](https://services.google.com/fh/files/blogs/master_case_study_terramearth.pdf)
+
 
 ## Getting Started
 
